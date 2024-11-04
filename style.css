@@ -5,7 +5,12 @@ body{
     font-family: "Architects Daughter", cursive;
     margin-bottom: 100px;
 }
-
+header{
+    border-bottom: solid 4px rgb(11, 108, 121);
+    padding: 20px;
+    font-size: 32px;
+    color: azure;
+}
 .chamada{
     background: rgb(158, 22, 22);
     margin-top: 80px;
