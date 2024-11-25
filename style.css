@@ -27,3 +27,19 @@ h1{
 .categoria{
     background-color: rgb(255, 255, 255);
 }
+.categoria{
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    .categoria-videos img{
+        height: 200px;
+    }
+    
+}
